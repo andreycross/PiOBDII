@@ -33,7 +33,7 @@ import Button
 # Configuration default values.
 ConfigValues = {
 	"FontName" : "freemono",
-	"SerialPort" : "/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_A800eaG9-if00-port0",
+	"SerialPort" : "/dev/ttyUSB0",
 	"Vehicle" : "DATA/TroubleCodes-R53_Cooper_S.txt",
 	"Debug": "OFF",
 }
