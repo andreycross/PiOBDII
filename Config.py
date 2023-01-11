@@ -34,7 +34,7 @@ import Button
 ConfigValues = {
 	"FontName" : "freemono",
 	"SerialPort" : "/dev/ttyUSB0",
-	"Vehicle" : "DATA/TroubleCodes-R53_Cooper_S.txt",
+	"Vehicle" : "DATA/TroubleCodes-ISO-SAE.txt",
 	"Debug": "OFF",
 }
 
